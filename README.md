@@ -2,7 +2,7 @@
 
 
 
-🌱 I’m currently looking for a job while studying **Data Science**
+🌱 Finished my studies in **Data Science**, working as AI Researcher at the University of Las Palmas de Gran Canaria (ULPGC).
 <img align="right" alt="Coding" width="300" src="fullyconnected.gif">
 
 
@@ -21,14 +21,7 @@
      
 <hr width="36%" >
 
-<h3>My GitHub Stats</h3>
 
-<br>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=davidcsanchez&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
 
 ------
 
